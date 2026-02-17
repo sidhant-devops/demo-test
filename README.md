@@ -1,5 +1,5 @@
 # Demo Application
-
+# Demo Application
 Sample application for testing the AI Deployment Platform.
 
 ## 🚀 Quick Start
