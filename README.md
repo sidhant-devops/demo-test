@@ -5,7 +5,7 @@ Sample application for testing the AI Deployment Platform.
 ## 🚀 Quick Start
 
 ### 1. Create GitHub Repository
-
+### 1. Create GitHub Repository
 ```bash
 # Create a new repository on GitHub (e.g., "demo-app")
 # Then initialize and push:
