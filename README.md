@@ -85,7 +85,7 @@ http://demo-app.local
 npm install
 
 # Run locally
-# Run locally
+
 npm start
 
 # Test
