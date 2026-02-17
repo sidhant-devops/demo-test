@@ -12,7 +12,7 @@ Sample application for testing the AI Deployment Platform.
 ```
 
 ### 2. Initialize Git and Push
-
+### 2. Initialize Git and Push
 ```bash
 git init
 git add .
