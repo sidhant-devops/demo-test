@@ -68,7 +68,7 @@ http://demo-app.local
 - Configure /etc/hosts
 
 ## ✅ What Happens When You Push
-
+## [✅ What Happens When You Push
 1. GitHub sends webhook to your server
 2. Server clones repo to `/tmp/local-deployments/demo-app`
 3. Analyzes code (detects Node.js, port 3000)
