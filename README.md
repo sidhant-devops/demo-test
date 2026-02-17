@@ -33,6 +33,7 @@ git push -u origin main
 6. Save
 
 ### 4. Push Code and Watch!
+### 4. Push Code and Watch!
 
 ```bash
 # Make a change
