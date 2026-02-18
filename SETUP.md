@@ -32,7 +32,7 @@ git push -u origin main
 ```
 
 ## Step 3: Start Demo Server
-
+## Step 3: Start Demo Server
 In a separate terminal:
 
 ```bash
