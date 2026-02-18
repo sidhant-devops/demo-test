@@ -1,5 +1,5 @@
 # 📦 Setup Instructions - Demo App
-
+## Step 2: Push This Code to GitHub
 ## Step 1: Create GitHub Repository
 
 1. Go to GitHub and create a new repository
