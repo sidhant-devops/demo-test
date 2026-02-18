@@ -51,6 +51,7 @@ http://demo-app.local
 ```
 
 ## 📋 Endpoints
+## 📋 Endpoints
 
 - `GET /` - Main endpoint with app info
 - `GET /health` - Health check endpoint
